@@ -1,6 +1,6 @@
 # COVID-19 Data Analysis and Visualization (MySQL, Tableau)
 
-•	Performed exploratory data analysis on COVID-19 datasets using SQL queries to identify trends.
+•	Performed exploratory data analysis on COVID-19 datasets using SQL queries to identify trends. 
 •	Calculated death percentage rates by location over time to assess the pandemic impact.
 •	Identified countries and continents with the highest COVID-19 death counts.
 •	Analyzed the correlation between total cases and population to determine the percentage infected.
